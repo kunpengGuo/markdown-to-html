@@ -1,0 +1,9 @@
+{
+    "name": "markdown_to_html",
+    "version": "0.0.1",
+    "private": true,
+    "main": "./index.js",
+    "dependencies": {
+        "marked": "~2.0.3"
+    }
+}
